@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 TryReveal
+#  TryReveal !
 
 ### *Try triangulate — You're the third point*
 
