@@ -1,6 +1,6 @@
 #  TryReveal
 
-### *Try triangulate You're the third point*
+###
 
 **Autonomous OSINT agent that scans 1,500+ tools in seconds.**
 
@@ -88,6 +88,6 @@ Rich — terminal UI
 
 FastAPI — backend
 
-Playwright — browser automation
+Playwright browser automation
 
 Built with ❤️ by @7r13x3
