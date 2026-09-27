@@ -1,0 +1,28 @@
+[scan]
+timeout = 8
+concurrency = 100
+user_agent = "TryReveal/1.0 (OSINT)"
+
+[username]
+map_path = "data/arf.json"
+rules_path = "data/rules.json"
+use_rules = true
+
+[email]
+verify_domain = true
+
+[phone]
+default_region = "US"
+
+[ip]
+use_internetdb = true
+
+[browser]
+enabled = true
+concurrency = 5
+timeout = 20
+headless = true
+proxy = ""
+
+[export]
+default_format = "json"
